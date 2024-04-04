@@ -1,4 +1,4 @@
-# This is Car'S releted potfuliyo web site
+# This is Carbuy.com releted portfolio web site
 
 This project was bootstrapped with MUI [Create React App](https://car-rileted-web.web.app/).
 
